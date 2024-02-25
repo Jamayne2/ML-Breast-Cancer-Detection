@@ -1,5 +1,3 @@
-Here is a draft README for your machine learning breast cancer detection project:
-
 # Breast Cancer Detection Model
 
 This project aims to build a machine learning model to accurately detect breast cancer based on key tumor cell characteristics.

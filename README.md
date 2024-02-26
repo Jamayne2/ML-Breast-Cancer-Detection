@@ -22,8 +22,6 @@ Breast cancer is one of the most common cancers among women, and early detection
 5. Build deep learning CNN model 
 6. Train model on training data
 7. Evaluate model performance on test data
-8. Fine-tune model hyperparameters
-9. Export model and share predictions
 
 ## Future Improvements
 
